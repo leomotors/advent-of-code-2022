@@ -15,3 +15,13 @@ Space Complexity = $\mathcal{O}(1)$
 
 Time Complexity = $\mathcal{O}(MN + NlogN)$  
 Space Complexity = $\mathcal{O}(N)$
+
+## Day 2
+
+Time Complexity = $\mathcal{O}(N)$
+
+## Day 3
+
+$N$ = Number of lines, $K$ = Length of line
+
+Time Complexity = $\mathcal{O}(NKlogK)$ for both parts
